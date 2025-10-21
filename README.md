@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-- 📖 Minecraft mod translator (when I find time for it)
-  - **Mods I translated for:**  
-    - [Biomes O' Plenty (BOP)](https://github.com/Glitchfiend/BiomesOPlenty)  
-    - [Biomes We've Gone (BWG)](https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone) + [All The Wood We've Got (WWG)](https://github.com/Potion-Studios/All-The-Wood-Weve-Got)
-    - [Wayfinder](https://github.com/Potion-Studios/Wayfinder)
-- </> I have *some* bit of Java knowledge, also some CSS and HTML knowledge, and a few bits of C# knowledge too
-  - Keep in mind that since I prefer (Neo)Forge, I have more modding knowledge in (Neo)Forge than in Fabric or one of the other dozens of modloaders that exist
-- 🛠 Coding tools I use: IntelliJ IDEA, VS2019, Forge / NeoForge modding toolkit
-- 💬 Feel free to ask me about everything on the [issues tab](https://github.com/ieguana/ieguana/issues)!
-- 😄 Pronouns: he/him
+- 📖 **Minecraft mod translator** (when I find time!)  
+  **Mods I’ve translated for:**  
+  - [Biomes O’ Plenty (BOP)](https://github.com/Glitchfiend/BiomesOPlenty)  
+  - [Biomes We’ve Gone (BWG)](https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone) + [All The Wood We’ve Got (WWG)](https://github.com/Potion-Studios/All-The-Wood-Weve-Got)  
+  - [Wayfinder](https://github.com/Potion-Studios/Wayfinder)
+
+- 🌌 **Current project:** working on a Minecraft dimension mod called **Beneathlayers**  
+
+- </> **Programming & modding skills:**  
+  - Java (NeoForge / Forge focus)
+  - HTML & CSS  
+  - Keep in mind I have more experience in (Neo)Forge than Fabric or other loaders  
+
+- 🛠 **Tools I use:** IntelliJ IDEA, Forge / NeoForge modding toolkit  
+
+- 💬 **Talk to me about anything:** [Issues tab](https://github.com/ieguana/ieguana/issues)  
+
+- 😄 **Pronouns:** he/him  
