@@ -6,7 +6,7 @@
   - [Biomes We’ve Gone (BWG)](https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone) + [All The Wood We’ve Got (WWG)](https://github.com/Potion-Studios/All-The-Wood-Weve-Got)  
   - [Wayfinder](https://github.com/Potion-Studios/Wayfinder)
 
-- 🌌 **Current project:** working on a Minecraft dimension mod called **Beneathlayers**  
+- ~~🌌 **Current project:** working on a Minecraft dimension mod called **Beneathlayers**~~ (halted)  
 
 - </> **Programming & modding skills:**  
   - Java (NeoForge / Forge focus)
